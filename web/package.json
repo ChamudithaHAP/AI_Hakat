@@ -1,0 +1,9 @@
+{
+  "name": "nsbm-hackathon-web",
+  "version": "1.0.0",
+  "description": "Web dashboard for AI service platform",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server"
+  }
+}
